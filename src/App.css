@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.main-box{
+  display: flex;
+}
+.card {
+  background: #e2dede;
+  height: 150px;
+  width: 500px;
+  margin: 10px;
+  border-radius: 10px;
+}
